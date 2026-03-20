@@ -272,7 +272,7 @@ Healome is a longevity-focused health technology company building blood-based ag
   author = {Nikhil Yadala},
   title = {Interpretable, Actionable, and Clinically meaningful Biological Aging Clocks},
   year = {2026},
-  url = {https://github.com/healome/healome-aging-clock}
+  url = {https://github.com/nikhilYadala/healome_bio_age}
 }
 ```
 
