@@ -297,4 +297,4 @@ I believe the field benefits from better benchmarking and open scrutiny. See [CO
 
 **Open-source**: GNU Affero General Public License v3.0 (AGPLv3). See [LICENSE](LICENSE).
 
-**Commercial use** — including use by companies, paid products, SaaS, clinics, diagnostics, pharma, biotech, or revenue-generating services — requires a separate commercial license from Healome One Inc. Contact [nikhil@healome.one](mailto:nikhil@healome.one) for terms.
+**Commercial use without AGPL compliance** — organizations that wish to integrate the Healome Clock into proprietary or closed-source products, SaaS platforms, clinical tools, diagnostics, or other applications without releasing their source code — requires a separate commercial license from Healome One Inc. Contact [nikhil@healome.one](mailto:nikhil@healome.one) for terms.
