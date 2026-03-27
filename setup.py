@@ -26,6 +26,7 @@ setup(
         "scikit-learn>=1.0,<1.1",
         "joblib>=1.0",
         "matplotlib>=3.4",
+        "huggingface_hub>=0.20",
     ],
     extras_require={
         "survival": [
