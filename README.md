@@ -282,10 +282,9 @@ Healome is a longevity-focused health technology company building blood-based ag
 @article{yadala2026healome,
   title={Healome Clock: An Open-Source, Interpretable, and Actionable Blood-Based Biological Aging Clock with Disease-Specific Mortality Validation},
   author={Yadala, Nikhil},
-  journal={medRxiv},
   year={2026},
-  doi={10.1101/2026.XX.XX.XXXXXXX},
-  url={https://doi.org/10.1101/2026.XX.XX.XXXXXXX}
+  doi={10.5281/zenodo.19244274},
+  url={https://doi.org/10.5281/zenodo.19244274}
 }
 ```
 
