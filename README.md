@@ -7,6 +7,7 @@ Developed by [Healome](https://healome.ai).
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-blue.svg)](LICENSE)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![Website](https://img.shields.io/badge/Website-openageai.com-brightgreen)](https://www.openageai.com)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.19519511.svg)](https://doi.org/10.5281/zenodo.19519511)
 
 **Try it now** — upload a blood test report and chat with AI about your biological age at [openageai.com/chat](https://www.openageai.com/chat). No code required.
 
@@ -284,6 +285,24 @@ Star this repo or follow [@Healome](https://twitter.com/nikhilyadala) for update
 OpenAge is developed and maintained by [Healome](https://healome.ai), a longevity-focused health technology company building blood-based aging models and tools for longitudinal health tracking.
 
 ## Citation
+
+If you use OpenAge in your research, please cite the paper and/or the software:
+
+**Paper:**
+
+> Yadala, N. (2026). OpenAge: An Open-Source, Interpretable, and Actionable Blood-Based Biological Aging Clock with Disease-Specific Mortality Validation. Zenodo. [https://doi.org/10.5281/zenodo.19519511](https://doi.org/10.5281/zenodo.19519511)
+
+```bibtex
+@article{yadala2026openage,
+  title={OpenAge: An Open-Source, Interpretable, and Actionable Blood-Based Biological Aging Clock with Disease-Specific Mortality Validation},
+  author={Yadala, Nikhil},
+  year={2026},
+  doi={10.5281/zenodo.19519511},
+  url={https://doi.org/10.5281/zenodo.19519511}
+}
+```
+
+**Software:**
 
 ```bibtex
 @article{yadala2026healome,
